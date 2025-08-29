@@ -1,0 +1,95 @@
+/.vscode
+/AT_speech_analysis.pdf
+/avg_sentiment_by_country_topic.tsv
+/BA_speech_analysis.pdf
+/BE_speech_analysis.pdf
+/BG_speech_analysis.pdf
+/cosine_distance_full_heatmap.png
+/cosine_distance_matrix_heatmap.png
+/cosine_distance_upper_triangle.png
+/CZ_speech_analysis.pdf
+/DA1E1000
+/DC9E1000
+/demo_expanded_by_Peter.ipynb
+/DK_speech_analysis.pdf
+/en_core_web_sm
+/ES-CT_speech_analysis.pdf
+/ES-GA_speech_analysis.pdf
+/ES-PV_speech_analysis.pdf
+/Exploratory_Analysis_ParlaCAP.ipynb
+/FR_speech_analysis.pdf
+/GB_speech_analysis.pdf
+/GR_speech_analysis.pdf
+/HR_speech_analysis.pdf
+/HU_speech_analysis.pdf
+/IS_speech_analysis.pdf
+/kw_concordances_ner.ipynb
+/LICENSE
+/LV_speech_analysis.pdf
+/nltk
+/other excel files
+/ParlaCAP Analysis 25.08.25.ipynb
+/ParlaCAP Analysis parliament overviews 26.08.2025.ipynb
+/parlacap_processed_tsv7_peter
+/ParlaMint Analysis to do 22.8.docx
+/ParlaMint data new no text
+/ParlaMint-AT_processed_no_text.tsv
+/ParlaMint-BA_processed_no_text.tsv
+/ParlaMint-BE_processed_no_text.tsv
+/ParlaMint-BG_processed_no_text.tsv
+/ParlaMint-CZ_processed_no_text.tsv
+/ParlaMint-DK_processed_no_text.tsv
+/ParlaMint-EE_processed_no_text.tsv
+/ParlaMint-ES-CT_processed_no_text.tsv
+/ParlaMint-ES-GA_processed_no_text.tsv
+/ParlaMint-ES-PV_processed_no_text.tsv
+/ParlaMint-ES_processed_no_text.tsv
+/ParlaMint-FR_processed_no_text.tsv
+/ParlaMint-GB_processed_no_text.tsv
+/ParlaMint-GR_processed_no_text.tsv
+/ParlaMint-HR_processed_no_text.tsv
+/ParlaMint-HU_processed_no_text.tsv
+/ParlaMint-IS_processed_no_text.tsv
+/ParlaMint-IT_processed_no_text.tsv
+/ParlaMint-LV_processed_no_text.tsv
+/ParlaMint-NL_processed_no_text.tsv
+/ParlaMint-NO_processed_no_text.tsv
+/ParlaMint-PL_processed_no_text.tsv
+/ParlaMint-PT_processed_no_text.tsv
+/ParlaMint-RS_processed_no_text.tsv
+/ParlaMint-SE_processed_no_text.tsv
+/ParlaMint-SI_processed_no_text.tsv
+/ParlaMint-TR_processed_no_text.tsv
+/ParlaMint-UA_processed_no_text.tsv
+/PL_speech_analysis.pdf
+/PT_speech_analysis.pdf
+/README
+/RS_speech_analysis.pdf
+/sent x topic findings new
+/sent x topic x speeches
+/sent x topic x speeches formatted new
+/sentiment_over_time.ipynb
+/sent_topic_speeches_ALL_COUNTRIES.csv
+/sent_topic_speeches_ALL_COUNTRIES.xlsx
+/sent_topic_speeches_by_country.xlsx
+/sent_topic_speeches_by_country_COALITION.xlsx
+/sent_topic_speeches_by_country_COALITION_new.xlsx
+/sent_topic_speeches_by_country_formatted.xlsx
+/sent_topic_speeches_by_country_OPPOSITION.xlsx
+/SE_speech_analysis.pdf
+/test.ipynb
+/test2.py
+/topic x party orientation x speeches
+/topic_sentiment_findings
+/topic_sentiment_findings.csv
+/topic_sentiment_findings.xlsx
+/topic_sentiment_findings_by_country.xlsx
+/topic_sentiment_findings_clean.csv
+/topic_sentiment_findings_clean.xlsx
+/topic_sentiment_findings_top_bottom.xlsx
+/topic_wordcount_findings.xlsx
+/TR_speech_analysis.pdf
+/Tutorial 7 - Top and Bottom N Sentiment and Topic share per Country.ipynb
+/UA_speech_analysis.pdf
+/weighted_sentiment_by_country.xlsx
+/~$rlaMint Analysis to do 22.8.docx
