@@ -3,13 +3,13 @@
 This repository contains a **multiple tutorials for analyzing parliamentary speeches** across multiple European countries. The 5 tutorial notebooks combine **processing of ParlaMint data, sentiment analysis, party comparisons and cross-country analyses** which enable students and researchers to study the **tone** and **content** of parliamentary debates systematically.
 
 ## Contents
-/notebooks
-    Tutorial1_Setup_Data_Loading.ipynb
-    Tutorial2_Sentiment_by_CAP.ipynb
-    Tutorial3_Cosine_Distance_and_Clustering.ipynb
-    Tutorial4_Topic_Distribution.ipynb
-    Tutorial5_Coilition_vs_Opposition_Dynamics.ipynb
-README.md
+- notebooks:
+    - Tutorial 1 - First steps with ParlaMint dataset (10 min)
+    - Tutorial 2 - Topic & Sentiment Distributions (25 min)
+    - Tutorial 3 - Cross-Parliament Comparison (30 min)
+    - Tutorial 4 - Sentiment & Frequency of Topics over Time (30 min)
+    - Tutorial 5 - Coalition vs. Opposition Dynamics (35 min)
+- README.md
 
 ## Workflow Overview
 
@@ -132,4 +132,5 @@ This tutorial provides a systematic framework to analyze how **political alignme
 
 
 ### Source
+
 Erjavec, Tomaž; et al. (2025). *Multilingual comparable corpora of parliamentary debates ParlaMint 5.0*. Slovenian language resource repository CLARIN.SI. ISSN 2820-4042. [Link](http://hdl.handle.net/11356/2004)
