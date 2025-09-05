@@ -5,10 +5,11 @@ This repository contains a **multiple tutorials for analyzing parliamentary spee
 ## Contents
 - Notebooks:
     - [Tutorial 1 - First steps with ParlaMint dataset](Tutorial%201%20-%20First%20steps%20with%20ParlaMint%20dataset.ipynb) (10 min)
-    - Tutorial 2 - Topic & Sentiment Distributions (25 min)
-    - Tutorial 3 - Cross-Parliament Comparison (30 min)
-    - Tutorial 4 - Sentiment & Frequency of Topics over Time (30 min)
-    - Tutorial 5 - Coalition vs. Opposition Dynamics (35 min)
+    - [Tutorial 2 - Topic & Sentiment Distributions](Tutorial%202%20-%20Calculating%20Topic%20and%20Sentiment%20Distributions.ipynb) (25 min)
+    - [Tutorial 3 - Cross-Parliament Comparison](Tutorial%203%20-%20Cross-Parliament%20Comparison.ipynb) (30 min)
+    - [Tutorial 4 - Sentiment & Frequency of Topics over Time](Tutorial%204%20-%20Sentiment%20x%20Topics%20over%20Time.ipynb) (30 min)
+    - [Tutorial 5 - Coalition vs. Opposition Dynamics](Tutorial%205%20-%20Coalition%20vs.%20Opposition%20Dynamics.ipynb) (35 min)
+
 - README.md
 
 ## Workflow Overview
@@ -134,6 +135,7 @@ This tutorial provides a systematic framework to analyze how **political alignme
 ### Source
 
 Erjavec, Tomaž; et al. (2025). *Multilingual comparable corpora of parliamentary debates ParlaMint 5.0*. Slovenian language resource repository CLARIN.SI. ISSN 2820-4042. [Link](http://hdl.handle.net/11356/2004)
+
 
 
 
