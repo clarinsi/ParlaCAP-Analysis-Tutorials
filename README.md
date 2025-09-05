@@ -10,8 +10,6 @@ This repository contains a **multiple tutorials for analyzing parliamentary spee
     - [Tutorial 4 - Sentiment & Frequency of Topics over Time](Tutorial%204%20-%20Sentiment%20x%20Topics%20over%20Time.ipynb) (30 min)
     - [Tutorial 5 - Coalition vs. Opposition Dynamics](Tutorial%205%20-%20Coalition%20vs.%20Opposition%20Dynamics.ipynb) (35 min)
 
-- README.md
-
 ## Workflow Overview
 
 The analysis workflow is organized across **five tutorials**, each building on the previous one.
@@ -135,6 +133,7 @@ This tutorial provides a systematic framework to analyze how **political alignme
 ### Source
 
 Erjavec, Tomaž; et al. (2025). *Multilingual comparable corpora of parliamentary debates ParlaMint 5.0*. Slovenian language resource repository CLARIN.SI. ISSN 2820-4042. [Link](http://hdl.handle.net/11356/2004)
+
 
 
 
