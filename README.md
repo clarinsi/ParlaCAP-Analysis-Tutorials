@@ -6,6 +6,7 @@ Main author: Isabell Furkert
 
 ## Contents
 - Notebooks:
+    - [Tutorial 0 - Downloading the data from CROSSDA](Tutorial%200%20-%20Downloading%20Data%20from%20CROSSDA.ipynb) (2 min)
     - [Tutorial 1 - First steps with ParlaMint dataset](Tutorial%201%20-%20First%20steps%20with%20ParlaMint%20dataset.ipynb) (10 min)
     - [Tutorial 2 - Topic & Sentiment Distributions](Tutorial%202%20-%20Calculating%20Topic%20and%20Sentiment%20Distributions.ipynb) (25 min)
     - [Tutorial 3 - Cross-Parliament Comparison](Tutorial%203%20-%20Cross-Parliament%20Comparison.ipynb) (30 min)
@@ -135,6 +136,7 @@ This tutorial provides a systematic framework to analyze how **political alignme
 ### Source
 
 Erjavec, Tomaž; et al. (2025). *Multilingual comparable corpora of parliamentary debates ParlaMint 5.0*. Slovenian language resource repository CLARIN.SI. ISSN 2820-4042. [Link](http://hdl.handle.net/11356/2004)
+
 
 
 
