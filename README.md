@@ -2,7 +2,9 @@
 
 This repository contains a **multiple tutorials for analyzing parliamentary speeches** across multiple European countries. The 5 tutorial notebooks combine **processing of ParlaMint data, sentiment analysis, party comparisons and cross-country analyses** which enable students and researchers to study the **tone** and **content** of parliamentary debates systematically.
 
-Main author: Isabell Furkert
+Main author of the tutorials: Isabell Furkert
+
+This work is supported by the OSCARS project - and its ParlaCAP cascading grant project -, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement No. 101129751.
 
 ## Contents
 - Notebooks:
@@ -136,6 +138,7 @@ This tutorial provides a systematic framework to analyze how **political alignme
 ### Source
 
 Erjavec, Tomaž; et al. (2025). *Multilingual comparable corpora of parliamentary debates ParlaMint 5.0*. Slovenian language resource repository CLARIN.SI. ISSN 2820-4042. [Link](http://hdl.handle.net/11356/2004)
+
 
 
 
