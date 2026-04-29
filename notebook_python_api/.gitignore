@@ -1,2 +1,3 @@
 *.tsv
 parlacapi_key
+data.parquet
