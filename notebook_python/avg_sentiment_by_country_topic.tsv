@@ -1,0 +1,645 @@
+country	CAP_category	total_words	avg_sentiment
+AT	Agriculture	2263148	2.15
+AT	Civil Rights	2840723	1.87
+AT	Culture	767773	2.24
+AT	Defense	1490495	1.87
+AT	Domestic Commerce	2174178	2.16
+AT	Education	3301121	2.21
+AT	Energy	1012278	2.08
+AT	Environment	1574831	2.17
+AT	Foreign Trade	279272	2.1
+AT	Government Operations	3941680	1.7
+AT	Health	2545149	1.95
+AT	Housing	502474	2.04
+AT	Immigration	1720337	1.71
+AT	International Affairs	2820510	1.99
+AT	Labor	3110274	1.9
+AT	Law and Crime	3151043	1.74
+AT	Macroeconomics	6687578	1.81
+AT	Mix	3480710	1.86
+AT	Other	476843	1.71
+AT	Public Lands	223784	2.27
+AT	Social Welfare	2629305	2.14
+AT	Technology	812930	2.31
+AT	Transportation	1844101	2.1
+BA	Agriculture	236306	1.92
+BA	Civil Rights	1172759	1.85
+BA	Culture	13649	2.32
+BA	Defense	320014	2.15
+BA	Domestic Commerce	202036	2.12
+BA	Education	190318	2.12
+BA	Energy	97974	2.11
+BA	Environment	36458	1.98
+BA	Foreign Trade	199158	2.1
+BA	Government Operations	3244796	1.92
+BA	Health	144387	1.92
+BA	Housing	21982	1.92
+BA	Immigration	419195	1.98
+BA	International Affairs	1060136	2.08
+BA	Labor	73708	2.01
+BA	Law and Crime	1216176	1.65
+BA	Macroeconomics	1335966	1.92
+BA	Mix	1198323	1.88
+BA	Other	1034400	2.05
+BA	Public Lands	50965	2.04
+BA	Social Welfare	41235	1.96
+BA	Technology	236035	1.93
+BA	Transportation	236773	2.16
+BE	Agriculture	399105	1.8
+BE	Civil Rights	1151707	1.76
+BE	Culture	132177	2.0
+BE	Defense	1314578	1.82
+BE	Domestic Commerce	859495	1.9
+BE	Education	99758	1.9
+BE	Energy	1307528	1.74
+BE	Environment	659864	1.96
+BE	Foreign Trade	174078	2.07
+BE	Government Operations	1025968	1.76
+BE	Health	2918005	1.84
+BE	Housing	121995	1.89
+BE	Immigration	1371492	1.68
+BE	International Affairs	2241873	1.84
+BE	Labor	1892540	1.81
+BE	Law and Crime	3072773	1.66
+BE	Macroeconomics	2496350	1.72
+BE	Mix	1712709	1.84
+BE	Other	500955	2.17
+BE	Public Lands	72763	1.85
+BE	Social Welfare	613034	1.96
+BE	Technology	219996	2.09
+BE	Transportation	1464057	1.9
+BG	Agriculture	773543	2.23
+BG	Civil Rights	910710	1.84
+BG	Culture	258563	2.42
+BG	Defense	844922	2.2
+BG	Domestic Commerce	1119656	2.39
+BG	Education	796363	2.44
+BG	Energy	982930	2.05
+BG	Environment	570725	2.19
+BG	Foreign Trade	72802	2.2
+BG	Government Operations	1908689	1.97
+BG	Health	1444867	2.02
+BG	Housing	267554	2.27
+BG	Immigration	328331	2.15
+BG	International Affairs	660622	2.21
+BG	Labor	608727	2.13
+BG	Law and Crime	1504207	2.07
+BG	Macroeconomics	1537674	2.07
+BG	Mix	1631751	2.11
+BG	Other	1037886	2.12
+BG	Public Lands	124838	2.07
+BG	Social Welfare	654480	2.21
+BG	Technology	229317	2.44
+BG	Transportation	777485	2.12
+CZ	Agriculture	634071	2.07
+CZ	Civil Rights	831146	1.66
+CZ	Culture	250210	2.22
+CZ	Defense	628954	2.0
+CZ	Domestic Commerce	1131669	1.92
+CZ	Education	947265	2.07
+CZ	Energy	515657	1.74
+CZ	Environment	741759	2.01
+CZ	Foreign Trade	88335	2.0
+CZ	Government Operations	2358945	1.68
+CZ	Health	1889101	1.82
+CZ	Housing	711426	1.94
+CZ	Immigration	504326	1.59
+CZ	International Affairs	803164	1.77
+CZ	Labor	627191	1.79
+CZ	Law and Crime	1157329	1.68
+CZ	Macroeconomics	2536994	1.6
+CZ	Mix	1773326	1.77
+CZ	Other	1138584	2.04
+CZ	Public Lands	215391	1.97
+CZ	Social Welfare	961845	1.96
+CZ	Technology	342021	1.92
+CZ	Transportation	774289	1.97
+DK	Agriculture	952946	2.18
+DK	Civil Rights	2154373	1.87
+DK	Culture	293360	2.32
+DK	Defense	637992	2.11
+DK	Domestic Commerce	1045110	2.32
+DK	Education	2297411	2.28
+DK	Energy	941907	2.39
+DK	Environment	1975284	2.31
+DK	Foreign Trade	142900	2.25
+DK	Government Operations	1159938	2.07
+DK	Health	2548202	2.23
+DK	Housing	1195491	2.11
+DK	Immigration	3883555	1.85
+DK	International Affairs	2622376	2.08
+DK	Labor	2230130	2.11
+DK	Law and Crime	2564923	1.86
+DK	Macroeconomics	3006953	2.09
+DK	Mix	2773967	2.05
+DK	Other	629463	2.14
+DK	Public Lands	224471	2.24
+DK	Social Welfare	2344397	2.15
+DK	Technology	379035	2.47
+DK	Transportation	1360533	2.21
+EE	Agriculture	394439	1.8
+EE	Civil Rights	759504	1.58
+EE	Culture	259532	2.02
+EE	Defense	516035	1.87
+EE	Domestic Commerce	399470	1.9
+EE	Education	1083682	1.81
+EE	Energy	470756	1.73
+EE	Environment	439914	1.89
+EE	Foreign Trade	37390	2.02
+EE	Government Operations	1471528	1.69
+EE	Health	951626	1.65
+EE	Housing	220583	1.65
+EE	Immigration	513741	1.59
+EE	International Affairs	722740	1.76
+EE	Labor	396529	1.76
+EE	Law and Crime	677431	1.57
+EE	Macroeconomics	1641353	1.69
+EE	Mix	1163422	1.7
+EE	Other	528768	1.79
+EE	Public Lands	68614	1.8
+EE	Social Welfare	710064	1.88
+EE	Technology	193711	1.97
+EE	Transportation	424368	1.81
+ES	Agriculture	346400	2.14
+ES	Civil Rights	2323334	1.61
+ES	Culture	209223	2.43
+ES	Defense	242970	1.87
+ES	Domestic Commerce	435034	2.08
+ES	Education	581732	1.84
+ES	Energy	616289	1.9
+ES	Environment	396001	2.03
+ES	Foreign Trade	28486	1.96
+ES	Government Operations	1497548	1.65
+ES	Health	1126966	2.01
+ES	Housing	447008	1.78
+ES	Immigration	388941	1.66
+ES	International Affairs	849676	1.89
+ES	Labor	1258531	1.93
+ES	Law and Crime	1525700	1.55
+ES	Macroeconomics	3337515	1.85
+ES	Mix	1429562	1.76
+ES	Other	144493	1.85
+ES	Public Lands	97174	2.02
+ES	Social Welfare	532754	2.02
+ES	Technology	206141	2.33
+ES	Transportation	481766	2.04
+ES-CT	Agriculture	223192	2.42
+ES-CT	Civil Rights	2125103	1.67
+ES-CT	Culture	156207	2.36
+ES-CT	Defense	36115	1.85
+ES-CT	Domestic Commerce	274351	2.07
+ES-CT	Education	815237	2.01
+ES-CT	Energy	118360	2.03
+ES-CT	Environment	373566	2.05
+ES-CT	Foreign Trade	4152	2.33
+ES-CT	Government Operations	1180136	1.65
+ES-CT	Health	1050681	2.05
+ES-CT	Housing	498217	1.81
+ES-CT	Immigration	126398	1.87
+ES-CT	International Affairs	458612	1.72
+ES-CT	Labor	378791	2.01
+ES-CT	Law and Crime	616181	1.71
+ES-CT	Macroeconomics	1465901	1.77
+ES-CT	Mix	973787	1.81
+ES-CT	Other	274155	2.18
+ES-CT	Public Lands	36976	2.14
+ES-CT	Social Welfare	676199	1.99
+ES-CT	Technology	198933	2.14
+ES-CT	Transportation	262843	1.93
+ES-GA	Agriculture	927918	1.64
+ES-GA	Civil Rights	1119985	1.69
+ES-GA	Culture	272497	1.76
+ES-GA	Defense	84053	1.54
+ES-GA	Domestic Commerce	312484	1.8
+ES-GA	Education	763643	1.73
+ES-GA	Energy	485458	1.51
+ES-GA	Environment	750702	1.5
+ES-GA	Foreign Trade	14959	2.85
+ES-GA	Government Operations	918466	1.6
+ES-GA	Health	1850626	1.46
+ES-GA	Housing	462549	1.46
+ES-GA	Immigration	64384	1.52
+ES-GA	International Affairs	104033	1.71
+ES-GA	Labor	873504	1.47
+ES-GA	Law and Crime	238694	1.49
+ES-GA	Macroeconomics	1704911	1.59
+ES-GA	Mix	1140995	1.64
+ES-GA	Other	229964	1.84
+ES-GA	Public Lands	327833	1.68
+ES-GA	Social Welfare	640752	1.71
+ES-GA	Technology	142355	1.99
+ES-GA	Transportation	675622	1.53
+ES-PV	Agriculture	240308	2.33
+ES-PV	Civil Rights	1177398	2.03
+ES-PV	Culture	190287	2.62
+ES-PV	Defense	17210	2.07
+ES-PV	Domestic Commerce	514178	2.27
+ES-PV	Education	778073	2.34
+ES-PV	Energy	379668	1.97
+ES-PV	Environment	401100	2.09
+ES-PV	Foreign Trade	56658	1.95
+ES-PV	Government Operations	918747	2.01
+ES-PV	Health	1078043	2.2
+ES-PV	Housing	409489	2.19
+ES-PV	Immigration	158617	2.2
+ES-PV	International Affairs	342105	2.08
+ES-PV	Labor	1315335	2.06
+ES-PV	Law and Crime	760123	1.86
+ES-PV	Macroeconomics	1407148	2.07
+ES-PV	Mix	960848	2.05
+ES-PV	Other	74269	2.09
+ES-PV	Public Lands	54725	1.94
+ES-PV	Social Welfare	778400	2.23
+ES-PV	Technology	227112	2.34
+ES-PV	Transportation	357228	2.1
+FR	Agriculture	813054	2.02
+FR	Civil Rights	1301632	1.83
+FR	Culture	250405	2.43
+FR	Defense	406884	2.27
+FR	Domestic Commerce	656060	2.12
+FR	Education	901368	2.08
+FR	Energy	335020	2.04
+FR	Environment	1010170	2.1
+FR	Foreign Trade	65873	1.93
+FR	Government Operations	1350639	1.97
+FR	Health	2108692	1.84
+FR	Housing	660897	1.99
+FR	Immigration	429739	1.7
+FR	International Affairs	699113	2.15
+FR	Labor	976276	1.92
+FR	Law and Crime	1563631	1.69
+FR	Macroeconomics	1729438	1.95
+FR	Mix	1514937	1.95
+FR	Other	2012781	2.28
+FR	Public Lands	137057	2.06
+FR	Social Welfare	671889	2.12
+FR	Technology	277556	2.14
+FR	Transportation	647061	2.08
+GB	Agriculture	2515109	2.59
+GB	Civil Rights	6612854	2.25
+GB	Culture	681434	2.99
+GB	Defense	3579836	2.47
+GB	Domestic Commerce	3791011	2.47
+GB	Education	5453191	2.65
+GB	Energy	2050460	2.6
+GB	Environment	3017070	2.54
+GB	Foreign Trade	2959259	2.53
+GB	Government Operations	7158799	2.25
+GB	Health	11625168	2.41
+GB	Housing	5308634	2.31
+GB	Immigration	4633426	2.15
+GB	International Affairs	16307484	2.19
+GB	Labor	3238140	2.41
+GB	Law and Crime	10087977	2.13
+GB	Macroeconomics	5952141	2.29
+GB	Mix	9973057	2.42
+GB	Other	3421230	2.75
+GB	Public Lands	844776	2.65
+GB	Social Welfare	4868778	2.26
+GB	Technology	2185330	2.69
+GB	Transportation	3986199	2.56
+GR	Agriculture	1939441	2.06
+GR	Civil Rights	2168642	1.72
+GR	Culture	530061	2.0
+GR	Defense	866870	2.0
+GR	Domestic Commerce	1661249	2.14
+GR	Education	2881591	1.93
+GR	Energy	932543	2.07
+GR	Environment	1039195	2.0
+GR	Foreign Trade	80576	2.04
+GR	Government Operations	3668152	1.71
+GR	Health	3542681	1.85
+GR	Housing	792975	1.95
+GR	Immigration	1424680	1.65
+GR	International Affairs	2200407	1.71
+GR	Labor	2188155	1.67
+GR	Law and Crime	1972918	1.68
+GR	Macroeconomics	7369005	1.76
+GR	Mix	3603195	1.76
+GR	Other	1257485	1.95
+GR	Public Lands	522250	1.94
+GR	Social Welfare	1026845	2.03
+GR	Technology	684411	2.01
+GR	Transportation	1148863	2.06
+HR	Agriculture	3815417	2.14
+HR	Civil Rights	4816098	1.89
+HR	Culture	694616	2.32
+HR	Defense	1999448	2.43
+HR	Domestic Commerce	4683973	2.24
+HR	Education	2981577	2.24
+HR	Energy	1418682	2.07
+HR	Environment	1950714	2.15
+HR	Foreign Trade	252515	2.45
+HR	Government Operations	8791887	1.81
+HR	Health	3586793	1.98
+HR	Housing	2496948	2.16
+HR	Immigration	741231	2.14
+HR	International Affairs	3063719	2.35
+HR	Labor	2968926	2.02
+HR	Law and Crime	5466003	1.93
+HR	Macroeconomics	9766981	1.87
+HR	Mix	6495944	1.98
+HR	Other	1274310	1.53
+HR	Public Lands	1195837	2.34
+HR	Social Welfare	2111201	2.32
+HR	Technology	1187310	2.1
+HR	Transportation	2139049	2.27
+HU	Agriculture	1055819	2.07
+HU	Civil Rights	1278318	1.86
+HU	Culture	362743	2.55
+HU	Defense	453061	2.18
+HU	Domestic Commerce	1228438	2.12
+HU	Education	1640861	1.93
+HU	Energy	725733	2.01
+HU	Environment	781016	1.96
+HU	Foreign Trade	143715	2.35
+HU	Government Operations	2122364	1.66
+HU	Health	1589853	1.9
+HU	Housing	680624	1.96
+HU	Immigration	1091353	1.69
+HU	International Affairs	1065671	2.14
+HU	Labor	889349	1.86
+HU	Law and Crime	1292152	1.96
+HU	Macroeconomics	3407324	1.91
+HU	Mix	2186709	1.92
+HU	Other	282816	2.01
+HU	Public Lands	178300	2.13
+HU	Social Welfare	1074443	2.15
+HU	Technology	278711	2.16
+HU	Transportation	560345	2.13
+IS	Agriculture	1810432	2.22
+IS	Civil Rights	1547312	2.08
+IS	Culture	202031	2.63
+IS	Defense	161325	2.32
+IS	Domestic Commerce	1623994	2.1
+IS	Education	855918	2.41
+IS	Energy	1124589	1.96
+IS	Environment	1097854	2.23
+IS	Foreign Trade	191467	2.23
+IS	Government Operations	2015592	1.88
+IS	Health	2320691	2.12
+IS	Housing	935851	2.22
+IS	Immigration	697972	1.99
+IS	International Affairs	1697787	2.12
+IS	Labor	744268	1.99
+IS	Law and Crime	800126	1.97
+IS	Macroeconomics	5104164	1.99
+IS	Mix	1963819	2.08
+IS	Other	520059	1.72
+IS	Public Lands	306650	2.21
+IS	Social Welfare	1595004	2.07
+IS	Technology	421664	2.27
+IS	Transportation	1493468	2.17
+IT	Agriculture	784268	2.21
+IT	Civil Rights	1741082	1.77
+IT	Culture	523261	2.58
+IT	Defense	375480	2.12
+IT	Domestic Commerce	837534	1.9
+IT	Education	673652	1.98
+IT	Energy	288689	2.1
+IT	Environment	1036232	1.96
+IT	Foreign Trade	54625	2.01
+IT	Government Operations	3957541	1.64
+IT	Health	1639538	2.02
+IT	Housing	287060	1.89
+IT	Immigration	798912	1.63
+IT	International Affairs	1504199	2.0
+IT	Labor	825398	1.8
+IT	Law and Crime	2785127	1.64
+IT	Macroeconomics	3875131	1.91
+IT	Mix	1991792	1.91
+IT	Other	1077339	2.22
+IT	Public Lands	321451	2.09
+IT	Social Welfare	430997	2.14
+IT	Technology	237416	2.15
+IT	Transportation	504861	1.81
+LV	Agriculture	64180	2.19
+LV	Civil Rights	311091	1.84
+LV	Culture	66463	2.42
+LV	Defense	118013	2.29
+LV	Domestic Commerce	273391	2.13
+LV	Education	474294	2.11
+LV	Energy	144295	1.77
+LV	Environment	84625	2.14
+LV	Foreign Trade	14286	1.96
+LV	Government Operations	949307	1.94
+LV	Health	416325	1.71
+LV	Housing	182016	2.09
+LV	Immigration	143632	1.95
+LV	International Affairs	319147	2.17
+LV	Labor	75743	2.2
+LV	Law and Crime	363736	2.03
+LV	Macroeconomics	774663	1.91
+LV	Mix	518662	1.94
+LV	Other	396851	2.82
+LV	Public Lands	26373	2.13
+LV	Social Welfare	221992	2.03
+LV	Technology	65237	2.14
+LV	Transportation	150600	2.13
+NL	Agriculture	638892	1.84
+NL	Civil Rights	809443	1.86
+NL	Culture	46258	2.18
+NL	Defense	399666	1.83
+NL	Domestic Commerce	389546	1.93
+NL	Education	719010	2.21
+NL	Energy	556237	2.09
+NL	Environment	811813	1.99
+NL	Foreign Trade	118846	2.01
+NL	Government Operations	886296	1.97
+NL	Health	1635340	1.99
+NL	Housing	471468	2.04
+NL	Immigration	612024	1.79
+NL	International Affairs	1244847	1.8
+NL	Labor	932564	2.01
+NL	Law and Crime	1304006	1.74
+NL	Macroeconomics	1290998	1.93
+NL	Mix	1260898	1.92
+NL	Other	978292	2.28
+NL	Public Lands	31389	2.12
+NL	Social Welfare	498200	1.94
+NL	Technology	240331	2.1
+NL	Transportation	505974	2.05
+NO	Agriculture	3950652	2.26
+NO	Civil Rights	3343635	2.23
+NO	Culture	1468107	2.64
+NO	Defense	2962248	2.27
+NO	Domestic Commerce	1901440	2.33
+NO	Education	5890632	2.44
+NO	Energy	3157509	2.32
+NO	Environment	4123072	2.28
+NO	Foreign Trade	427243	2.37
+NO	Government Operations	3270064	2.11
+NO	Health	7367420	2.29
+NO	Housing	1382507	2.26
+NO	Immigration	2776367	2.1
+NO	International Affairs	4728286	2.32
+NO	Labor	3042964	2.17
+NO	Law and Crime	4692101	2.14
+NO	Macroeconomics	6242267	2.22
+NO	Mix	5159151	2.26
+NO	Other	226017	2.21
+NO	Public Lands	499367	2.39
+NO	Social Welfare	4140087	2.31
+NO	Technology	1216064	2.49
+NO	Transportation	6042090	2.32
+PL	Agriculture	1510809	2.31
+PL	Civil Rights	1611873	1.89
+PL	Culture	432010	2.76
+PL	Defense	690566	2.25
+PL	Domestic Commerce	952873	2.42
+PL	Education	1111862	2.29
+PL	Energy	991807	2.24
+PL	Environment	766944	2.19
+PL	Foreign Trade	86270	2.62
+PL	Government Operations	1801162	1.96
+PL	Health	1822036	2.17
+PL	Housing	544904	2.32
+PL	Immigration	432398	2.4
+PL	International Affairs	1227121	2.16
+PL	Labor	723695	2.3
+PL	Law and Crime	2464344	1.84
+PL	Macroeconomics	2401224	2.04
+PL	Mix	2378174	2.24
+PL	Other	913532	2.68
+PL	Public Lands	250589	2.32
+PL	Social Welfare	1070408	2.47
+PL	Technology	460047	2.14
+PL	Transportation	1021210	2.46
+PT	Agriculture	628877	1.93
+PT	Civil Rights	805559	2.03
+PT	Culture	266480	2.31
+PT	Defense	234721	1.92
+PT	Domestic Commerce	605090	1.66
+PT	Education	1125238	1.83
+PT	Energy	215915	1.8
+PT	Environment	668777	1.85
+PT	Foreign Trade	48098	1.83
+PT	Government Operations	1129130	1.76
+PT	Health	1845670	1.75
+PT	Housing	538579	1.65
+PT	Immigration	248075	1.64
+PT	International Affairs	515373	1.76
+PT	Labor	1191488	1.72
+PT	Law and Crime	940075	1.75
+PT	Macroeconomics	2638505	1.56
+PT	Mix	1368743	1.86
+PT	Other	786437	1.97
+PT	Public Lands	296547	1.87
+PT	Social Welfare	759386	1.96
+PT	Technology	148614	2.04
+PT	Transportation	617761	1.75
+RS	Agriculture	2209139	2.05
+RS	Civil Rights	4033137	1.75
+RS	Culture	740625	2.51
+RS	Defense	1564524	2.1
+RS	Domestic Commerce	3348058	2.06
+RS	Education	3010901	2.21
+RS	Energy	1026852	2.23
+RS	Environment	1134082	2.29
+RS	Foreign Trade	497162	2.21
+RS	Government Operations	10038096	1.66
+RS	Health	2218818	2.16
+RS	Housing	1854201	2.03
+RS	Immigration	756408	2.01
+RS	International Affairs	4193476	1.77
+RS	Labor	1949452	1.89
+RS	Law and Crime	7422127	1.66
+RS	Macroeconomics	9559359	1.87
+RS	Mix	5852342	1.73
+RS	Other	2557817	1.3
+RS	Public Lands	493035	2.42
+RS	Social Welfare	828111	2.38
+RS	Technology	929222	2.07
+RS	Transportation	1823891	2.22
+SE	Agriculture	711643	2.27
+SE	Civil Rights	1053316	1.96
+SE	Culture	426960	2.54
+SE	Defense	950899	2.19
+SE	Domestic Commerce	587668	2.16
+SE	Education	1383954	2.3
+SE	Energy	744947	2.15
+SE	Environment	1631253	2.23
+SE	Foreign Trade	197537	2.39
+SE	Government Operations	517184	2.15
+SE	Health	1330928	2.12
+SE	Housing	796512	2.07
+SE	Immigration	1410679	1.9
+SE	International Affairs	1752135	2.05
+SE	Labor	1090386	2.02
+SE	Law and Crime	1793639	1.77
+SE	Macroeconomics	1533227	2.08
+SE	Mix	1425258	2.1
+SE	Other	40151	2.41
+SE	Public Lands	84214	2.12
+SE	Social Welfare	926661	2.19
+SE	Technology	315433	2.5
+SE	Transportation	1321033	2.2
+SI	Agriculture	1626416	2.14
+SI	Civil Rights	3391918	1.81
+SI	Culture	951325	2.11
+SI	Defense	1269032	1.92
+SI	Domestic Commerce	3375592	2.09
+SI	Education	2730766	2.15
+SI	Energy	877160	2.07
+SI	Environment	1460084	2.08
+SI	Foreign Trade	103304	2.25
+SI	Government Operations	7681373	1.81
+SI	Health	3090840	1.9
+SI	Housing	1336399	2.12
+SI	Immigration	1212783	1.81
+SI	International Affairs	1698854	2.17
+SI	Labor	2436385	2.1
+SI	Law and Crime	3613209	1.82
+SI	Macroeconomics	8110516	1.97
+SI	Mix	4238142	1.89
+SI	Other	917163	1.72
+SI	Public Lands	626802	2.2
+SI	Social Welfare	1930501	2.1
+SI	Technology	813308	2.1
+SI	Transportation	2487849	2.13
+TR	Agriculture	1754524	1.71
+TR	Civil Rights	5713968	1.47
+TR	Culture	299103	2.6
+TR	Defense	1016812	1.96
+TR	Domestic Commerce	970465	1.94
+TR	Education	1724723	1.83
+TR	Energy	897442	1.82
+TR	Environment	934684	1.72
+TR	Foreign Trade	229215	2.27
+TR	Government Operations	2184038	1.64
+TR	Health	1472627	1.79
+TR	Housing	661340	1.67
+TR	Immigration	366816	1.63
+TR	International Affairs	2355820	1.74
+TR	Labor	1591151	1.56
+TR	Law and Crime	4352506	1.38
+TR	Macroeconomics	3955658	1.72
+TR	Mix	3893750	1.73
+TR	Other	2747756	1.78
+TR	Public Lands	486194	1.93
+TR	Social Welfare	422823	2.14
+TR	Technology	284764	2.17
+TR	Transportation	576636	1.92
+UA	Agriculture	1472545	2.17
+UA	Civil Rights	1455211	1.91
+UA	Culture	332794	2.44
+UA	Defense	1168573	2.26
+UA	Domestic Commerce	1232233	2.41
+UA	Education	667499	2.42
+UA	Energy	936104	2.14
+UA	Environment	427772	2.21
+UA	Foreign Trade	263191	2.53
+UA	Government Operations	3951443	2.12
+UA	Health	929296	2.07
+UA	Housing	778200	2.24
+UA	Immigration	243449	2.35
+UA	International Affairs	1456845	2.21
+UA	Labor	724608	2.16
+UA	Law and Crime	2651446	1.95
+UA	Macroeconomics	3684584	2.06
+UA	Mix	2822826	2.13
+UA	Other	1019710	2.68
+UA	Public Lands	190139	2.12
+UA	Social Welfare	1051246	2.36
+UA	Technology	421939	2.45
+UA	Transportation	447973	2.33
