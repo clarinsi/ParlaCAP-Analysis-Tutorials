@@ -1,39 +1,52 @@
 # Parliamentary Speech Analysis with ParlaMint
 
-This repository contains a **multiple tutorials for analyzing parliamentary speeches** across multiple European countries. The 5 tutorial notebooks combine **processing of ParlaMint data, sentiment analysis, party comparisons and cross-country analyses** which enable students and researchers to study the **tone** and **content** of parliamentary debates systematically.
+This repository contains **multiple tutorials for analyzing parliamentary speeches** across multiple European countries.
+The notebooks combine **processing of ParlaMint data, sentiment analysis, party comparisons, and cross-country analyses**, enabling students and researchers to study the **tone** and **content** of parliamentary debates systematically.
 
-Main author of the tutorials: Isabell Furkert
+These notebooks can be downloaded to run in Python and R, but were adapted to run in Google Colab as well (suitable for people with little to no programming knowledge).
 
-This work is supported by the OSCARS project - and its ParlaCAP cascading grant project -, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement No. 101129751.
+**Main author of the tutorials:** Isabell Furkert
+
+This work is supported by the OSCARS project — and its ParlaCAP cascading grant project —, which has received funding from the European Commission's Horizon Europe Research and Innovation programme under grant agreement No. 101129751.
+
+## Getting Started
+
+- **Just want to explore the analyses?** Start with Tutorials 1-5. In Google Colab they load `ParlaCAP.data.parquet` (~17 GB, the full dataset) automatically from Hugging Face, so no setup is required. If you run the notebooks locally in Python or R, follow the download instructions in each notebook.
+- **Want to fetch live or custom-filtered data?** Tutorial 0 is an optional, advanced tutorial showing how to query the ParlaCAP API and download your own data subsets.
 
 ## Contents
-- Notebooks (Python):
-    - [Tutorial 0 - Downloading the data from CROSSDA](notebook_python/Tutorial%200%20-%20Downloading%20Data%20from%20CROSSDA.ipynb) (2 min)
-    - [Tutorial 1 - First steps with the ParlaCAP dataset](notebook_python/Tutorial%201%20-%20First%20steps%20with%20ParlaMint%20dataset.ipynb) (10 min)
-    - [Tutorial 2 - Topic & Sentiment Distributions](notebook_python/Tutorial%202%20-%20Calculating%20Topic%20and%20Sentiment%20Distributions.ipynb) (25 min)
-    - [Tutorial 3 - Cross-Parliament Comparison](notebook_python/Tutorial%203%20-%20Cross-Parliament%20Comparison.ipynb) (30 min)
-    - [Tutorial 4 - Sentiment & Frequency of Topics over Time](notebook_python/Tutorial%204%20-%20Sentiment%20x%20Topics%20over%20Time.ipynb) (30 min)
-    - [Tutorial 5 - Coalition vs. Opposition Dynamics](notebook_python/Tutorial%205%20-%20Coalition%20vs.%20Opposition%20Dynamics.ipynb) (35 min)
+
+| Notebook | Description | Time | Open |
+|---|---|---|---|
+| Tutorial 0 | Downloading the data (via API) | 2 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isabell-Furkert-129/ParlaCAP-Colab-Tutorials/blob/main/notebook_google_colab/Tutorial_0_API_Access_and_Authentication.ipynb) |
+| Tutorial 1 | First Steps with the ParlaCAP Dataset | 10 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isabell-Furkert-129/ParlaCAP-Colab-Tutorials/blob/main/notebook_google_colab/Tutorial_1_First_steps_with_ParlaMint_dataset.ipynb) |
+| Tutorial 2 | Topic & Sentiment Distributions | 25 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isabell-Furkert-129/ParlaCAP-Colab-Tutorials/blob/main/notebook_google_colab/Tutorial_2_Calculating_Topic_and_Sentiment_Distributions.ipynb) |
+| Tutorial 3 | Cross-Parliament Comparison | 30 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isabell-Furkert-129/ParlaCAP-Colab-Tutorials/blob/main/notebook_google_colab/Tutorial_3_Cross_Parliament_Comparison.ipynb) |
+| Tutorial 4 | Sentiment & Frequency of Topics over Time | 30 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isabell-Furkert-129/ParlaCAP-Colab-Tutorials/blob/main/notebook_google_colab/Tutorial_4_Sentiment_x_Topics_over_Time.ipynb) |
+| Tutorial 5 | Coalition vs. Opposition Dynamics | 35 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isabell-Furkert-129/ParlaCAP-Colab-Tutorials/blob/main/notebook_google_colab/Tutorial_5_Coalition_vs_Opposition_Dynamics.ipynb) |
 
 ## Workflow Overview
 
-The analysis workflow is organized across **five tutorials**, each building on the previous one.
+The analysis workflow is organized across **six tutorials**. Tutorial 0 is a standalone, optional data-download tutorial, while Tutorials 1-5 each build on the previous one.
 
-## Tutorial 1 - First Steps with the ParlaMint Dataset
+### Tutorial 0 — Downloading the Data via API
+
+Shows how to use the ParlaCAP API to query and download your own data subsets.
+
+### Tutorial 1 — First Steps with the ParlaCAP Dataset
 
 **Objective:**
-This tutorial introduces the **ParlaMint dataset**, a rich multilingual corpus of European parliamentary debates. It is designed for researchers, data scientists, and political science enthusiasts who want to analyze parliamentary proceedings across different European countries.
+This tutorial introduces the **ParlaCAP dataset**, built on the ParlaMint corpus of European parliamentary debates. It is designed for researchers, data scientists, and political science enthusiasts who want to analyze parliamentary proceedings across different European countries.
 
 **Dataset Overview:**
 - **ParlaMint** contains transcribed parliamentary speeches annotated with detailed metadata, including speaker role (e.g., Member of Parliament), party affiliation, session date, gender and speech length.
     + Extension: **ParlaCAP** categorizes each speech segment into a policy domain from the **Comparative Agendas Project (CAP)**, such as healthcare, education, or foreign affairs.
     + Extension: **ParlaSent** provides sentiment scores for each segment, enabling analysis of the emotional tone of debates.
 
-
-## Tutorial 2 - Topic & Sentiment Distributions
+### Tutorial 2 — Topic & Sentiment Distributions
 
 **Objective:**
-This tutorial performs **Exploratory Data Analysis (EDA)** on the ParlaMint dataset, providing a descriptive overview of **policy topics (CAP categories)** and **sentiment** in parliamentary debates.
+This tutorial performs **Exploratory Data Analysis (EDA)** on the ParlaCAP dataset, providing a descriptive overview of **policy topics (CAP categories)** and **sentiment** in parliamentary debates.
 
 **Possible Research Questions:**
 - Which CAP categories dominate parliamentary debates, and do distributions differ across countries?
@@ -49,7 +62,7 @@ This tutorial performs **Exploratory Data Analysis (EDA)** on the ParlaMint data
 
 This tutorial sets the foundation for cross-country comparisons and party-based analyses in subsequent tutorials.
 
-## Tutorial 3 - Cross-Parliament Comparison
+### Tutorial 3 — Cross-Parliament Comparison
 
 **Objective:**
 This tutorial extends the analysis from **Tutorial 2** by moving from descriptive, country-specific observations to **quantitative comparison and clustering** of parliamentary discourse. It focuses on measuring **similarity and differences across parliaments** using computational methods from **NLP** and **Computational Linguistics**.
@@ -79,7 +92,7 @@ This tutorial extends the analysis from **Tutorial 2** by moving from descriptiv
 **Outcome:**
 This tutorial provides a systematic, data-driven framework for **cross-parliament comparison**, revealing clusters of similar parliaments, identifying outliers, and quantifying differences in both topic focus and sentiment patterns.
 
-## Tutorial 4 - Sentiment & Frequency of Topics over Time
+### Tutorial 4 — Sentiment & Frequency of Topics over Time
 
 **Objective:**
 This tutorial explores **temporal dynamics** in parliamentary debates, building on previous analyses of topics and sentiment. It focuses on how **topic prevalence and sentiment change over time** within and across parliaments.
@@ -106,7 +119,7 @@ This tutorial explores **temporal dynamics** in parliamentary debates, building 
 **Outcome:**
 This tutorial provides insights into **how sentiment and topic attention evolve over time**, enabling researchers to detect peaks, dips, and shifts in parliamentary focus that may correspond to political events, crises, or debates.
 
-## Tutorial 5 - Coalition vs. Opposition Dynamics
+### Tutorial 5 — Coalition vs. Opposition Dynamics
 
 **Objective:**
 This tutorial combines previous analyses of **topic distributions and sentiment** to examine **party alignment**, focusing on differences between **coalition and opposition parties**. It extends the analysis from a single parliament to **multiple countries**, highlighting patterns that are robust across parliamentary systems.
@@ -137,15 +150,4 @@ This tutorial provides a systematic framework to analyze how **political alignme
 
 ### Source
 
-Erjavec, Tomaž; et al. (2025). *Multilingual comparable corpora of parliamentary debates ParlaMint 5.0*. Slovenian language resource repository CLARIN.SI. ISSN 2820-4042. [Link](http://hdl.handle.net/11356/2004)
-
-
-
-
-
-
-
-
-
-
-
+Erjavec, Tomaž; et al. (2025). *Multilingual comparable corpora of parliamentary debates ParlaMint 5.0*. Slovenian language resource repository CLARIN.SI. ISSN 2820-4042. [hdl.handle.net/11356/2004](https://hdl.handle.net/11356/2004)
