@@ -1,7 +1,7 @@
-# Parliamentary Speech Analysis with ParlaMint
+# Parliamentary Speech Analysis with ParlaCAP
 
 This repository contains **multiple tutorials for analyzing parliamentary speeches** across multiple European countries.
-The notebooks combine **processing of ParlaMint data, sentiment analysis, party comparisons, and cross-country analyses**, enabling students and researchers to study the **tone** and **content** of parliamentary debates systematically.
+The notebooks combine **processing of ParlaCAP data, sentiment analysis, party comparisons, and cross-country analyses**, enabling students and researchers to study the **tone** and **content** of parliamentary debates systematically.
 
 These notebooks can be downloaded to run in Python and R, but were adapted to run in Google Colab as well (suitable for people with little to no programming knowledge).
 
