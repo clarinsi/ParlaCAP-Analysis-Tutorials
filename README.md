@@ -150,4 +150,6 @@ This tutorial provides a systematic framework to analyze how **political alignme
 
 ### Source
 
+Ljubešić, Nikola; Rupnik, Peter; Kuzman Pungeršek, Taja; Porupski, Ivan; Mochtak, Michal; Dinić, Vuk; Širinić, Daniela; Kopp, Matyáš; Erjavec, Tomaž(2025).ParlaCAP: Dataset for tracking political agenda-setting across European parliaments.(Version V1).CROSSDA.https://doi.org/10.23669/1ZTELP
+
 Erjavec, Tomaž; et al. (2025). *Multilingual comparable corpora of parliamentary debates ParlaMint 5.0*. Slovenian language resource repository CLARIN.SI. ISSN 2820-4042. [hdl.handle.net/11356/2004](https://hdl.handle.net/11356/2004)
